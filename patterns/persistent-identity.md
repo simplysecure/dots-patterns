@@ -45,7 +45,7 @@ Matrix (p2p beta)
 ## Best Practice: How to Implement Persistent Identity
 
 - Users need to have strict control over when and where their id is shared.
-  Never automatically share this id on a public service 
+  Never automatically share this id on a public service
   unless users explicitly opt-in to publicly sharing this id, as it could be used
   nefariously by 3rd parties to contact a user without their consent.
 - Make sure that the same id is not reused across names that are intended

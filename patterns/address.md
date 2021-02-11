@@ -59,4 +59,3 @@ Identity](persistent-identity.md) for making portability more secure.
 Address can help give users trust in who they're talking to.
 
 ## References & Where to Learn More
-

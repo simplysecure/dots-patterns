@@ -31,7 +31,7 @@ Trello’s Card Aging
 
 - Age Indicator is most effective when it comes to time sensitive information,
   like a 'best-before-date' feature. It highlights when something needs to be
-  checked for validity. As such, it enables an assertion of truth as 
+  checked for validity. As such, it enables an assertion of truth as
   information gets referenced over time.
 - Make sure context is always clear.
 - Use Age Indicator in combination with a [network health
